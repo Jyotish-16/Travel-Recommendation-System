@@ -1,0 +1,1001 @@
+review_id,user_id,destination_id,rating,review_text,visit_month,visit_year,helpful_votes,travel_type
+1,61,54,2.7,Absolutely stunning! A must-visit for everyone.,8,2024,98,Family
+2,127,47,4.5,Historical significance makes this a very meaningful visit.,1,2023,71,Family
+3,105,87,3.2,One of the best places I've ever visited.,7,2021,51,Solo
+4,167,49,2.9,"Perfect for family vacations, kids loved it!",9,2020,117,Family
+5,1,9,4.2,Great for photography enthusiasts.,8,2022,119,Couple
+6,131,99,4.0,The natural beauty here is unparalleled.,8,2024,6,Family
+7,92,20,4.1,Great for photography enthusiasts.,6,2024,10,Couple
+8,190,61,3.1,Best place for adventure seekers!,11,2021,102,Couple
+9,191,35,3.1,The natural beauty here is unparalleled.,4,2021,60,Family
+10,113,50,3.1,Overrated but still worth a visit.,8,2022,67,Couple
+11,153,82,2.9,Great place but can get very crowded during peak season.,3,2020,139,Family
+12,56,62,4.1,Best place for adventure seekers!,9,2024,101,Family
+13,161,17,4.6,Absolutely stunning! A must-visit for everyone.,2,2022,109,Group
+14,166,88,4.3,"Perfect for family vacations, kids loved it!",2,2023,139,Couple
+15,117,3,4.5,"Amazing wildlife experience, saw tigers up close!",12,2023,50,Couple
+16,134,32,3.5,Plan at least 2-3 days to fully explore this place.,12,2022,116,Solo
+17,58,99,4.1,Historical significance makes this a very meaningful visit.,7,2024,45,Family
+18,44,13,3.4,A bit expensive but totally worth it.,12,2022,52,Group
+19,173,89,3.8,One of the best places I've ever visited.,10,2024,87,Group
+20,160,73,3.7,The natural beauty here is unparalleled.,4,2021,120,Solo
+21,173,68,2.9,Great place but can get very crowded during peak season.,10,2022,12,Couple
+22,61,14,3.5,A spiritual experience like no other.,8,2024,88,Group
+23,47,98,4.9,The natural beauty here is unparalleled.,9,2022,124,Couple
+24,149,11,3.1,Great for photography enthusiasts.,7,2022,117,Group
+25,80,56,2.8,Best place for adventure seekers!,5,2024,53,Group
+26,118,67,3.5,A hidden gem that not many people know about.,8,2024,115,Family
+27,164,92,4.5,One of the best places I've ever visited.,4,2020,117,Couple
+28,147,29,4.0,Best place for adventure seekers!,2,2022,3,Group
+29,20,9,4.2,Overrated but still worth a visit.,11,2023,74,Family
+30,185,67,3.0,"Perfect for family vacations, kids loved it!",12,2022,48,Group
+31,146,25,4.0,A spiritual experience like no other.,6,2022,6,Family
+32,47,98,3.3,"Perfect for family vacations, kids loved it!",9,2024,109,Family
+33,49,76,4.6,"Amazing wildlife experience, saw tigers up close!",1,2022,121,Couple
+34,14,42,4.1,One of the best places I've ever visited.,11,2022,10,Family
+35,143,9,3.0,A hidden gem that not many people know about.,10,2023,91,Group
+36,159,79,2.7,Great place but can get very crowded during peak season.,12,2024,22,Solo
+37,1,40,2.6,A hidden gem that not many people know about.,7,2022,27,Group
+38,117,25,3.4,A hidden gem that not many people know about.,10,2021,110,Group
+39,54,5,3.2,"Perfect beach destination, crystal clear waters.",9,2020,56,Family
+40,118,11,4.1,A bit expensive but totally worth it.,10,2023,25,Group
+41,3,59,3.7,A bit expensive but totally worth it.,9,2022,53,Family
+42,144,98,3.2,Beautiful architecture and peaceful atmosphere.,10,2021,28,Couple
+43,185,88,2.9,A spiritual experience like no other.,11,2022,96,Family
+44,12,79,2.8,Great place but can get very crowded during peak season.,3,2022,13,Couple
+45,74,38,4.7,Beautiful architecture and peaceful atmosphere.,11,2024,77,Solo
+46,16,72,3.1,The food and culture here are amazing.,5,2024,34,Group
+47,200,5,4.1,"Perfect beach destination, crystal clear waters.",8,2024,29,Couple
+48,102,48,4.5,"Amazing wildlife experience, saw tigers up close!",8,2021,91,Solo
+49,152,90,4.0,Plan at least 2-3 days to fully explore this place.,4,2022,16,Family
+50,156,18,4.6,Beautiful architecture and peaceful atmosphere.,12,2020,92,Solo
+51,117,70,3.5,One of the best places I've ever visited.,11,2023,78,Couple
+52,8,37,4.9,"Amazing wildlife experience, saw tigers up close!",11,2024,109,Group
+53,122,60,2.8,Wonderful hospitality and clean surroundings.,1,2024,101,Solo
+54,92,48,2.8,Historical significance makes this a very meaningful visit.,1,2022,105,Solo
+55,164,77,4.1,Great for photography enthusiasts.,4,2022,46,Family
+56,90,28,4.9,Great for photography enthusiasts.,6,2021,63,Family
+57,136,69,4.5,Historical significance makes this a very meaningful visit.,8,2021,63,Group
+58,186,77,2.7,Great for photography enthusiasts.,6,2024,86,Family
+59,60,81,3.2,Plan at least 2-3 days to fully explore this place.,12,2022,6,Couple
+60,178,40,4.8,"Perfect for family vacations, kids loved it!",9,2020,21,Couple
+61,28,45,3.1,"Perfect for family vacations, kids loved it!",9,2023,80,Solo
+62,101,96,4.5,Beautiful architecture and peaceful atmosphere.,2,2022,73,Family
+63,41,62,4.6,Historical significance makes this a very meaningful visit.,10,2022,137,Family
+64,192,93,3.7,One of the best places I've ever visited.,1,2021,134,Solo
+65,155,58,3.5,Wonderful hospitality and clean surroundings.,2,2023,124,Group
+66,191,67,3.6,Historical significance makes this a very meaningful visit.,5,2024,49,Family
+67,145,56,3.1,Overrated but still worth a visit.,4,2022,51,Family
+68,161,40,4.7,The food and culture here are amazing.,4,2024,0,Group
+69,157,98,3.6,Great for photography enthusiasts.,9,2022,3,Family
+70,141,40,4.7,Breathtaking views and wonderful experience.,11,2024,144,Couple
+71,46,91,2.8,A bit expensive but totally worth it.,8,2023,131,Couple
+72,35,77,5.0,A hidden gem that not many people know about.,6,2021,3,Group
+73,134,33,3.6,One of the best places I've ever visited.,1,2023,0,Group
+74,82,6,2.6,Overrated but still worth a visit.,2,2020,70,Couple
+75,115,88,2.6,Historical significance makes this a very meaningful visit.,6,2021,34,Couple
+76,197,19,4.4,Historical significance makes this a very meaningful visit.,11,2023,7,Couple
+77,47,80,4.1,Breathtaking views and wonderful experience.,2,2020,35,Couple
+78,153,40,4.5,Breathtaking views and wonderful experience.,10,2022,122,Group
+79,194,92,2.8,A bit expensive but totally worth it.,5,2022,42,Group
+80,10,97,2.6,Overrated but still worth a visit.,5,2024,26,Solo
+81,56,59,3.8,One of the best places I've ever visited.,6,2021,31,Group
+82,30,59,3.5,One of the best places I've ever visited.,6,2022,77,Couple
+83,109,48,3.7,Plan at least 2-3 days to fully explore this place.,6,2021,120,Family
+84,5,41,5.0,Plan at least 2-3 days to fully explore this place.,2,2022,145,Couple
+85,119,13,4.9,A hidden gem that not many people know about.,10,2024,15,Couple
+86,33,45,4.9,Best place for adventure seekers!,3,2023,98,Group
+87,118,89,4.5,Historical significance makes this a very meaningful visit.,6,2024,46,Solo
+88,65,53,3.4,Great for photography enthusiasts.,8,2020,30,Family
+89,146,42,3.5,The sunset view here is absolutely magical.,12,2022,3,Family
+90,177,100,3.9,Breathtaking views and wonderful experience.,11,2020,16,Solo
+91,11,63,4.6,Historical significance makes this a very meaningful visit.,12,2020,38,Couple
+92,85,27,2.7,Great for photography enthusiasts.,1,2021,47,Group
+93,26,38,3.6,"Perfect beach destination, crystal clear waters.",1,2022,38,Couple
+94,63,60,2.7,"Perfect for family vacations, kids loved it!",11,2020,131,Family
+95,86,7,3.8,Plan at least 2-3 days to fully explore this place.,2,2023,29,Family
+96,59,5,4.7,Wonderful hospitality and clean surroundings.,11,2020,21,Couple
+97,27,45,4.5,A hidden gem that not many people know about.,12,2023,65,Family
+98,177,58,3.1,Beautiful architecture and peaceful atmosphere.,12,2021,107,Group
+99,161,31,4.9,Breathtaking views and wonderful experience.,6,2020,11,Family
+100,98,23,4.2,Historical significance makes this a very meaningful visit.,9,2024,35,Group
+101,105,42,2.5,Great place but can get very crowded during peak season.,4,2021,17,Couple
+102,99,10,3.1,"Perfect for family vacations, kids loved it!",3,2023,89,Couple
+103,129,32,3.2,One of the best places I've ever visited.,12,2021,0,Group
+104,149,53,2.7,A hidden gem that not many people know about.,8,2020,126,Group
+105,55,30,4.9,"Amazing wildlife experience, saw tigers up close!",11,2022,89,Group
+106,6,39,3.7,Breathtaking views and wonderful experience.,10,2022,86,Family
+107,197,31,4.7,A spiritual experience like no other.,9,2023,89,Couple
+108,95,82,3.3,Historical significance makes this a very meaningful visit.,12,2023,133,Family
+109,133,100,2.8,Historical significance makes this a very meaningful visit.,11,2022,69,Family
+110,102,2,3.7,A hidden gem that not many people know about.,5,2023,43,Group
+111,3,78,2.8,A hidden gem that not many people know about.,9,2021,85,Family
+112,181,77,3.7,Plan at least 2-3 days to fully explore this place.,2,2024,18,Solo
+113,23,93,4.8,"Amazing wildlife experience, saw tigers up close!",3,2024,100,Solo
+114,53,12,3.8,A bit expensive but totally worth it.,7,2021,145,Solo
+115,165,39,4.0,A bit expensive but totally worth it.,7,2024,94,Solo
+116,83,66,2.9,Overrated but still worth a visit.,6,2020,100,Solo
+117,145,96,2.6,Best place for adventure seekers!,6,2021,29,Group
+118,85,13,2.8,The natural beauty here is unparalleled.,2,2023,32,Family
+119,78,46,4.0,"Perfect for family vacations, kids loved it!",10,2021,11,Family
+120,110,27,2.7,Plan at least 2-3 days to fully explore this place.,6,2022,117,Solo
+121,1,17,3.4,Breathtaking views and wonderful experience.,4,2023,93,Family
+122,51,95,3.9,"Perfect for family vacations, kids loved it!",12,2022,136,Solo
+123,173,98,3.5,One of the best places I've ever visited.,3,2023,148,Family
+124,4,60,2.9,"Perfect for family vacations, kids loved it!",11,2024,75,Group
+125,190,64,3.2,Great place but can get very crowded during peak season.,2,2021,28,Couple
+126,193,88,4.8,The sunset view here is absolutely magical.,1,2020,116,Solo
+127,113,35,4.2,Best place for adventure seekers!,11,2023,14,Group
+128,32,70,3.7,Overrated but still worth a visit.,11,2023,1,Group
+129,34,83,2.5,The food and culture here are amazing.,5,2022,116,Solo
+130,92,30,5.0,Plan at least 2-3 days to fully explore this place.,2,2024,17,Solo
+131,95,71,4.2,Beautiful architecture and peaceful atmosphere.,2,2022,2,Group
+132,72,74,3.3,"Perfect for family vacations, kids loved it!",7,2022,134,Solo
+133,39,96,4.7,One of the best places I've ever visited.,8,2024,107,Solo
+134,154,98,3.1,Great for photography enthusiasts.,10,2020,94,Couple
+135,162,63,3.9,Beautiful architecture and peaceful atmosphere.,8,2022,121,Couple
+136,182,28,4.1,A bit expensive but totally worth it.,4,2022,10,Solo
+137,118,60,3.1,Overrated but still worth a visit.,1,2023,67,Group
+138,3,79,4.9,Best place for adventure seekers!,11,2024,122,Family
+139,123,94,4.4,Beautiful architecture and peaceful atmosphere.,7,2021,112,Solo
+140,50,37,3.9,Plan at least 2-3 days to fully explore this place.,1,2020,97,Solo
+141,12,93,3.0,One of the best places I've ever visited.,11,2020,92,Family
+142,193,22,2.6,Overrated but still worth a visit.,4,2024,21,Family
+143,54,68,3.3,The sunset view here is absolutely magical.,8,2023,126,Family
+144,133,20,4.4,Best place for adventure seekers!,2,2023,133,Couple
+145,57,96,3.2,"Perfect for family vacations, kids loved it!",6,2024,24,Couple
+146,145,100,3.8,Beautiful architecture and peaceful atmosphere.,6,2023,84,Couple
+147,112,68,4.3,A hidden gem that not many people know about.,12,2020,54,Group
+148,47,91,2.8,One of the best places I've ever visited.,9,2020,143,Solo
+149,151,64,4.2,The natural beauty here is unparalleled.,5,2021,94,Couple
+150,85,17,2.7,A hidden gem that not many people know about.,10,2024,141,Group
+151,142,12,4.9,A bit expensive but totally worth it.,4,2022,118,Group
+152,66,22,3.7,Absolutely stunning! A must-visit for everyone.,5,2022,8,Family
+153,75,17,2.9,A bit expensive but totally worth it.,12,2021,149,Family
+154,179,10,3.4,Overrated but still worth a visit.,12,2021,41,Couple
+155,103,65,3.5,"Amazing wildlife experience, saw tigers up close!",10,2023,52,Solo
+156,166,22,4.4,"Perfect beach destination, crystal clear waters.",11,2021,73,Solo
+157,192,90,4.4,"Perfect for family vacations, kids loved it!",5,2021,38,Solo
+158,38,82,4.0,Wonderful hospitality and clean surroundings.,8,2022,121,Group
+159,50,50,2.8,"Perfect beach destination, crystal clear waters.",10,2023,14,Group
+160,98,14,2.9,A spiritual experience like no other.,12,2021,122,Group
+161,82,64,2.7,Beautiful architecture and peaceful atmosphere.,8,2021,110,Group
+162,30,47,3.9,Beautiful architecture and peaceful atmosphere.,2,2023,130,Solo
+163,79,29,4.7,One of the best places I've ever visited.,7,2024,82,Solo
+164,91,76,3.6,Overrated but still worth a visit.,8,2023,9,Family
+165,179,36,2.9,Great place but can get very crowded during peak season.,11,2022,91,Solo
+166,191,99,3.9,A hidden gem that not many people know about.,6,2024,28,Group
+167,52,52,4.5,The sunset view here is absolutely magical.,5,2020,34,Group
+168,166,76,4.4,A hidden gem that not many people know about.,11,2023,5,Couple
+169,79,7,4.7,Breathtaking views and wonderful experience.,9,2022,139,Solo
+170,30,29,3.2,"Perfect for family vacations, kids loved it!",3,2024,110,Solo
+171,106,11,3.0,Plan at least 2-3 days to fully explore this place.,12,2023,37,Family
+172,51,33,4.7,Beautiful architecture and peaceful atmosphere.,10,2021,76,Family
+173,81,6,4.1,Plan at least 2-3 days to fully explore this place.,4,2023,92,Group
+174,133,79,3.3,Best place for adventure seekers!,9,2020,146,Couple
+175,29,32,4.4,Beautiful architecture and peaceful atmosphere.,6,2023,66,Solo
+176,132,51,4.5,"Amazing wildlife experience, saw tigers up close!",8,2024,135,Solo
+177,138,75,4.0,"Amazing wildlife experience, saw tigers up close!",7,2024,7,Couple
+178,184,58,4.2,Plan at least 2-3 days to fully explore this place.,11,2023,121,Solo
+179,145,87,3.4,"Amazing wildlife experience, saw tigers up close!",2,2024,83,Family
+180,74,26,3.8,Historical significance makes this a very meaningful visit.,3,2021,131,Couple
+181,17,98,3.8,Breathtaking views and wonderful experience.,1,2023,84,Solo
+182,84,46,4.6,The natural beauty here is unparalleled.,9,2021,44,Family
+183,69,98,4.6,A bit expensive but totally worth it.,7,2021,135,Family
+184,34,29,4.6,A spiritual experience like no other.,1,2022,86,Group
+185,6,4,2.5,Historical significance makes this a very meaningful visit.,3,2023,15,Solo
+186,53,81,4.4,Plan at least 2-3 days to fully explore this place.,4,2024,76,Couple
+187,194,99,4.4,Overrated but still worth a visit.,4,2021,8,Family
+188,126,13,4.2,Historical significance makes this a very meaningful visit.,5,2022,59,Family
+189,43,39,4.4,A spiritual experience like no other.,3,2023,77,Group
+190,115,15,4.6,The sunset view here is absolutely magical.,3,2023,76,Couple
+191,111,29,3.7,A spiritual experience like no other.,1,2020,70,Group
+192,151,29,3.8,Overrated but still worth a visit.,7,2020,14,Family
+193,183,75,2.8,Wonderful hospitality and clean surroundings.,11,2021,70,Solo
+194,80,32,3.5,"Perfect beach destination, crystal clear waters.",10,2020,101,Couple
+195,95,2,4.1,A bit expensive but totally worth it.,1,2021,21,Solo
+196,118,47,4.5,Great for photography enthusiasts.,2,2024,112,Solo
+197,144,78,3.0,Historical significance makes this a very meaningful visit.,4,2021,0,Group
+198,8,84,2.8,Historical significance makes this a very meaningful visit.,4,2020,9,Family
+199,132,22,4.2,Overrated but still worth a visit.,5,2024,109,Solo
+200,104,75,2.5,Best place for adventure seekers!,11,2020,112,Couple
+201,132,27,2.9,A hidden gem that not many people know about.,2,2021,49,Group
+202,184,67,2.6,A hidden gem that not many people know about.,4,2022,11,Couple
+203,25,81,2.9,The natural beauty here is unparalleled.,1,2023,88,Solo
+204,195,56,3.0,"Amazing wildlife experience, saw tigers up close!",2,2020,111,Couple
+205,96,92,3.5,"Perfect beach destination, crystal clear waters.",1,2021,77,Group
+206,195,93,3.5,Plan at least 2-3 days to fully explore this place.,10,2024,120,Group
+207,155,21,4.7,Beautiful architecture and peaceful atmosphere.,10,2020,22,Family
+208,93,47,3.8,The food and culture here are amazing.,4,2020,133,Couple
+209,160,80,4.3,Breathtaking views and wonderful experience.,4,2023,24,Group
+210,178,59,2.8,Wonderful hospitality and clean surroundings.,7,2021,17,Group
+211,61,84,3.1,A bit expensive but totally worth it.,10,2022,140,Family
+212,122,6,4.3,The sunset view here is absolutely magical.,11,2024,42,Group
+213,51,19,2.6,Great place but can get very crowded during peak season.,11,2021,77,Solo
+214,147,57,3.7,A hidden gem that not many people know about.,9,2024,27,Couple
+215,21,69,4.0,Great place but can get very crowded during peak season.,9,2020,145,Family
+216,5,3,4.0,Overrated but still worth a visit.,5,2023,58,Solo
+217,92,1,2.6,One of the best places I've ever visited.,10,2023,62,Solo
+218,170,58,3.3,"Amazing wildlife experience, saw tigers up close!",1,2022,91,Couple
+219,61,38,4.1,The food and culture here are amazing.,1,2023,55,Family
+220,22,15,2.9,Historical significance makes this a very meaningful visit.,6,2020,110,Group
+221,149,34,4.2,A hidden gem that not many people know about.,2,2022,136,Family
+222,70,61,4.4,Beautiful architecture and peaceful atmosphere.,8,2021,67,Group
+223,1,35,5.0,The natural beauty here is unparalleled.,9,2023,45,Couple
+224,133,64,3.0,One of the best places I've ever visited.,4,2022,66,Couple
+225,12,25,4.6,A spiritual experience like no other.,5,2020,135,Solo
+226,90,24,3.8,Historical significance makes this a very meaningful visit.,11,2024,5,Solo
+227,46,12,3.4,A bit expensive but totally worth it.,8,2024,23,Solo
+228,34,18,2.8,Absolutely stunning! A must-visit for everyone.,3,2020,93,Couple
+229,177,15,4.3,The natural beauty here is unparalleled.,5,2020,12,Group
+230,78,80,3.1,Breathtaking views and wonderful experience.,3,2024,24,Couple
+231,45,27,3.4,Best place for adventure seekers!,12,2022,147,Couple
+232,155,72,2.7,A hidden gem that not many people know about.,10,2024,117,Solo
+233,73,60,4.5,A bit expensive but totally worth it.,3,2020,81,Family
+234,26,46,4.4,A spiritual experience like no other.,3,2023,110,Solo
+235,47,89,4.3,Best place for adventure seekers!,12,2021,81,Family
+236,121,17,3.2,One of the best places I've ever visited.,7,2023,65,Group
+237,56,93,2.9,A bit expensive but totally worth it.,7,2023,44,Group
+238,94,53,4.1,A spiritual experience like no other.,7,2020,113,Group
+239,107,8,3.7,Absolutely stunning! A must-visit for everyone.,10,2024,62,Solo
+240,63,79,2.9,"Perfect for family vacations, kids loved it!",8,2022,75,Solo
+241,48,27,4.2,Great place but can get very crowded during peak season.,5,2023,113,Solo
+242,61,46,5.0,"Perfect for family vacations, kids loved it!",5,2024,110,Couple
+243,81,50,4.4,Beautiful architecture and peaceful atmosphere.,4,2022,146,Solo
+244,26,71,4.3,Beautiful architecture and peaceful atmosphere.,7,2023,34,Couple
+245,36,3,4.9,Breathtaking views and wonderful experience.,10,2022,52,Group
+246,1,93,3.0,Overrated but still worth a visit.,4,2024,25,Solo
+247,8,64,3.9,Wonderful hospitality and clean surroundings.,2,2021,13,Couple
+248,113,44,4.9,Beautiful architecture and peaceful atmosphere.,4,2024,117,Group
+249,99,53,2.9,Wonderful hospitality and clean surroundings.,8,2020,44,Group
+250,180,24,4.3,Historical significance makes this a very meaningful visit.,9,2022,50,Solo
+251,47,60,4.0,Plan at least 2-3 days to fully explore this place.,3,2021,118,Family
+252,127,3,4.0,Absolutely stunning! A must-visit for everyone.,7,2022,18,Family
+253,56,20,4.2,One of the best places I've ever visited.,12,2022,81,Group
+254,14,46,4.8,Absolutely stunning! A must-visit for everyone.,9,2023,75,Family
+255,28,15,4.5,The food and culture here are amazing.,11,2020,91,Family
+256,78,25,2.6,"Perfect beach destination, crystal clear waters.",4,2022,32,Couple
+257,130,94,4.6,Beautiful architecture and peaceful atmosphere.,10,2024,146,Couple
+258,109,78,3.1,The sunset view here is absolutely magical.,3,2024,27,Couple
+259,154,71,3.4,Plan at least 2-3 days to fully explore this place.,5,2023,122,Group
+260,14,17,3.7,A hidden gem that not many people know about.,1,2020,125,Family
+261,187,84,3.7,The natural beauty here is unparalleled.,3,2020,36,Solo
+262,56,100,3.6,Great place but can get very crowded during peak season.,8,2024,98,Family
+263,115,9,4.8,Overrated but still worth a visit.,11,2021,97,Group
+264,7,38,4.3,A spiritual experience like no other.,8,2023,126,Couple
+265,3,48,4.1,Overrated but still worth a visit.,4,2023,79,Group
+266,111,60,2.6,Great place but can get very crowded during peak season.,2,2024,37,Couple
+267,151,63,4.8,Breathtaking views and wonderful experience.,8,2024,76,Group
+268,107,86,4.8,A spiritual experience like no other.,8,2021,125,Solo
+269,18,2,4.5,The natural beauty here is unparalleled.,10,2021,86,Couple
+270,38,88,2.5,Plan at least 2-3 days to fully explore this place.,4,2020,53,Couple
+271,115,72,2.6,Historical significance makes this a very meaningful visit.,3,2023,149,Family
+272,15,11,3.1,One of the best places I've ever visited.,2,2023,15,Group
+273,192,64,2.8,Great place but can get very crowded during peak season.,9,2024,27,Family
+274,119,77,3.5,Wonderful hospitality and clean surroundings.,1,2020,45,Group
+275,28,81,4.8,Plan at least 2-3 days to fully explore this place.,7,2023,71,Solo
+276,39,72,3.7,The sunset view here is absolutely magical.,5,2020,84,Family
+277,185,21,2.5,Absolutely stunning! A must-visit for everyone.,8,2020,25,Couple
+278,17,18,3.2,A hidden gem that not many people know about.,4,2024,84,Solo
+279,86,94,2.6,Great for photography enthusiasts.,7,2020,64,Group
+280,126,64,2.6,A spiritual experience like no other.,5,2021,133,Couple
+281,44,82,3.2,Beautiful architecture and peaceful atmosphere.,5,2021,114,Group
+282,25,95,3.2,Overrated but still worth a visit.,9,2022,63,Couple
+283,145,38,4.5,The natural beauty here is unparalleled.,9,2024,86,Group
+284,13,32,4.9,Absolutely stunning! A must-visit for everyone.,9,2022,106,Couple
+285,25,11,3.4,Plan at least 2-3 days to fully explore this place.,12,2021,95,Group
+286,68,45,3.6,A bit expensive but totally worth it.,6,2022,76,Family
+287,138,89,4.6,A spiritual experience like no other.,6,2024,145,Couple
+288,67,33,3.2,Great for photography enthusiasts.,5,2024,86,Couple
+289,109,41,2.9,The natural beauty here is unparalleled.,9,2020,148,Family
+290,146,8,4.6,"Amazing wildlife experience, saw tigers up close!",10,2023,56,Group
+291,111,11,2.6,One of the best places I've ever visited.,8,2020,102,Couple
+292,111,86,4.0,A hidden gem that not many people know about.,7,2024,90,Family
+293,34,51,3.9,A bit expensive but totally worth it.,7,2021,44,Group
+294,111,88,3.4,One of the best places I've ever visited.,6,2021,87,Couple
+295,8,41,3.3,A hidden gem that not many people know about.,5,2020,114,Couple
+296,168,17,4.4,The sunset view here is absolutely magical.,4,2024,46,Group
+297,113,76,2.7,A hidden gem that not many people know about.,3,2021,134,Family
+298,83,46,3.1,A hidden gem that not many people know about.,3,2024,49,Couple
+299,42,32,4.3,The sunset view here is absolutely magical.,6,2021,83,Group
+300,169,79,3.9,Absolutely stunning! A must-visit for everyone.,4,2024,90,Couple
+301,101,80,2.8,Best place for adventure seekers!,12,2022,133,Group
+302,6,54,4.7,Wonderful hospitality and clean surroundings.,12,2024,90,Couple
+303,180,86,3.5,Breathtaking views and wonderful experience.,6,2024,136,Solo
+304,26,92,4.6,Best place for adventure seekers!,3,2020,108,Family
+305,64,20,4.5,A bit expensive but totally worth it.,4,2022,56,Family
+306,187,33,4.1,The food and culture here are amazing.,9,2023,30,Solo
+307,184,74,3.7,Absolutely stunning! A must-visit for everyone.,5,2020,20,Group
+308,59,40,4.9,A bit expensive but totally worth it.,7,2023,89,Family
+309,109,32,2.9,One of the best places I've ever visited.,10,2021,39,Group
+310,198,97,4.3,A bit expensive but totally worth it.,2,2023,111,Couple
+311,121,2,3.0,A spiritual experience like no other.,5,2024,44,Solo
+312,33,97,3.3,Great place but can get very crowded during peak season.,9,2023,76,Group
+313,181,33,3.3,Great for photography enthusiasts.,11,2020,86,Group
+314,150,77,4.9,"Perfect for family vacations, kids loved it!",3,2020,147,Family
+315,21,30,4.9,Beautiful architecture and peaceful atmosphere.,9,2023,100,Couple
+316,198,33,3.0,Breathtaking views and wonderful experience.,11,2020,116,Family
+317,70,77,2.6,A bit expensive but totally worth it.,6,2020,91,Couple
+318,112,26,4.3,The sunset view here is absolutely magical.,4,2023,144,Family
+319,4,22,3.5,"Perfect for family vacations, kids loved it!",7,2022,27,Group
+320,94,66,2.7,"Amazing wildlife experience, saw tigers up close!",8,2022,24,Group
+321,75,38,4.2,Historical significance makes this a very meaningful visit.,6,2021,57,Solo
+322,190,90,3.9,Wonderful hospitality and clean surroundings.,5,2020,40,Group
+323,62,46,5.0,"Amazing wildlife experience, saw tigers up close!",6,2023,133,Group
+324,94,15,3.1,Beautiful architecture and peaceful atmosphere.,5,2020,74,Group
+325,95,98,3.5,One of the best places I've ever visited.,8,2024,37,Group
+326,152,44,3.9,Historical significance makes this a very meaningful visit.,1,2020,133,Solo
+327,55,49,4.5,Breathtaking views and wonderful experience.,11,2020,74,Couple
+328,137,75,3.9,Overrated but still worth a visit.,7,2022,141,Solo
+329,131,61,4.0,"Perfect beach destination, crystal clear waters.",10,2023,65,Solo
+330,31,67,3.1,Breathtaking views and wonderful experience.,10,2020,2,Family
+331,40,6,4.6,"Perfect beach destination, crystal clear waters.",11,2022,116,Couple
+332,36,9,3.6,Breathtaking views and wonderful experience.,2,2021,98,Family
+333,152,6,2.9,"Perfect for family vacations, kids loved it!",9,2022,18,Solo
+334,6,73,4.2,Overrated but still worth a visit.,1,2022,145,Group
+335,66,95,3.0,A hidden gem that not many people know about.,11,2022,115,Couple
+336,75,32,2.7,Best place for adventure seekers!,10,2020,124,Group
+337,4,41,4.7,The sunset view here is absolutely magical.,6,2020,87,Solo
+338,79,76,3.7,Wonderful hospitality and clean surroundings.,9,2021,34,Solo
+339,134,8,4.4,The food and culture here are amazing.,1,2024,0,Solo
+340,118,72,3.2,Breathtaking views and wonderful experience.,4,2024,125,Couple
+341,113,50,4.5,"Perfect beach destination, crystal clear waters.",4,2024,88,Family
+342,94,92,2.8,Overrated but still worth a visit.,9,2021,143,Family
+343,179,62,3.4,A bit expensive but totally worth it.,11,2024,146,Group
+344,62,84,4.9,Breathtaking views and wonderful experience.,5,2024,24,Couple
+345,185,62,4.5,"Perfect for family vacations, kids loved it!",5,2022,15,Group
+346,194,7,3.7,The food and culture here are amazing.,6,2020,72,Group
+347,79,75,3.3,Great place but can get very crowded during peak season.,1,2020,128,Family
+348,136,84,4.7,A bit expensive but totally worth it.,1,2022,41,Couple
+349,26,80,3.9,The natural beauty here is unparalleled.,9,2022,146,Solo
+350,179,4,4.4,Best place for adventure seekers!,3,2022,79,Group
+351,173,6,4.4,Historical significance makes this a very meaningful visit.,4,2020,103,Solo
+352,44,58,2.5,Best place for adventure seekers!,1,2024,145,Couple
+353,133,22,2.8,"Perfect for family vacations, kids loved it!",9,2022,33,Group
+354,70,26,4.1,"Amazing wildlife experience, saw tigers up close!",8,2021,88,Solo
+355,154,3,2.9,Wonderful hospitality and clean surroundings.,2,2022,124,Solo
+356,118,41,3.1,Wonderful hospitality and clean surroundings.,8,2023,44,Family
+357,68,60,4.9,A bit expensive but totally worth it.,7,2022,133,Couple
+358,19,14,3.9,A hidden gem that not many people know about.,11,2020,20,Couple
+359,20,75,4.4,The food and culture here are amazing.,6,2022,121,Couple
+360,113,82,3.9,One of the best places I've ever visited.,1,2023,69,Group
+361,140,12,3.9,The natural beauty here is unparalleled.,7,2021,95,Family
+362,47,87,2.7,One of the best places I've ever visited.,10,2024,104,Group
+363,1,12,3.4,The natural beauty here is unparalleled.,7,2022,47,Couple
+364,90,13,3.2,Plan at least 2-3 days to fully explore this place.,9,2023,38,Group
+365,142,25,3.5,"Amazing wildlife experience, saw tigers up close!",1,2023,30,Solo
+366,64,45,4.5,The sunset view here is absolutely magical.,2,2021,9,Group
+367,38,19,3.4,Overrated but still worth a visit.,11,2020,29,Group
+368,37,55,3.6,"Perfect for family vacations, kids loved it!",9,2022,17,Couple
+369,126,100,3.5,Great place but can get very crowded during peak season.,9,2023,87,Solo
+370,139,45,2.7,One of the best places I've ever visited.,6,2021,124,Couple
+371,100,8,3.6,"Perfect for family vacations, kids loved it!",6,2024,72,Solo
+372,77,93,3.0,Overrated but still worth a visit.,4,2023,14,Solo
+373,3,53,3.0,Overrated but still worth a visit.,4,2021,3,Solo
+374,161,55,2.7,Historical significance makes this a very meaningful visit.,5,2020,8,Couple
+375,134,32,3.4,Plan at least 2-3 days to fully explore this place.,3,2020,108,Solo
+376,178,51,4.4,The natural beauty here is unparalleled.,1,2023,136,Family
+377,10,44,3.2,"Amazing wildlife experience, saw tigers up close!",1,2023,131,Family
+378,5,82,3.3,Historical significance makes this a very meaningful visit.,12,2022,15,Family
+379,151,70,4.1,A bit expensive but totally worth it.,7,2021,142,Family
+380,138,18,3.0,Historical significance makes this a very meaningful visit.,1,2023,98,Couple
+381,172,83,4.7,Breathtaking views and wonderful experience.,1,2022,120,Group
+382,130,22,3.8,A bit expensive but totally worth it.,3,2022,51,Group
+383,13,37,3.6,Plan at least 2-3 days to fully explore this place.,10,2023,68,Family
+384,168,96,3.9,The natural beauty here is unparalleled.,4,2020,4,Group
+385,130,56,2.9,The food and culture here are amazing.,4,2021,19,Family
+386,84,59,4.0,Breathtaking views and wonderful experience.,2,2021,78,Family
+387,65,3,3.4,One of the best places I've ever visited.,1,2020,145,Group
+388,63,28,4.7,Best place for adventure seekers!,3,2023,110,Group
+389,101,74,2.9,A bit expensive but totally worth it.,11,2021,1,Solo
+390,73,35,3.8,A hidden gem that not many people know about.,4,2023,92,Family
+391,17,61,4.0,"Amazing wildlife experience, saw tigers up close!",3,2023,12,Group
+392,9,93,2.6,Absolutely stunning! A must-visit for everyone.,8,2022,3,Group
+393,143,54,3.4,Beautiful architecture and peaceful atmosphere.,10,2020,108,Group
+394,152,63,4.3,Plan at least 2-3 days to fully explore this place.,1,2023,73,Solo
+395,38,79,4.6,Historical significance makes this a very meaningful visit.,2,2024,94,Family
+396,163,97,3.3,Breathtaking views and wonderful experience.,7,2020,104,Family
+397,94,7,4.5,Beautiful architecture and peaceful atmosphere.,4,2021,7,Couple
+398,95,76,4.9,One of the best places I've ever visited.,8,2022,66,Solo
+399,49,49,4.6,A spiritual experience like no other.,11,2021,109,Solo
+400,69,94,2.8,A bit expensive but totally worth it.,3,2021,8,Family
+401,62,85,4.3,A bit expensive but totally worth it.,6,2020,116,Couple
+402,188,31,3.3,Best place for adventure seekers!,9,2021,10,Couple
+403,178,58,5.0,Great for photography enthusiasts.,1,2023,98,Family
+404,78,61,3.7,Breathtaking views and wonderful experience.,1,2021,41,Group
+405,117,24,2.8,Plan at least 2-3 days to fully explore this place.,8,2022,140,Solo
+406,120,20,4.3,Beautiful architecture and peaceful atmosphere.,3,2022,119,Couple
+407,137,37,3.3,Historical significance makes this a very meaningful visit.,5,2024,140,Group
+408,162,4,5.0,A bit expensive but totally worth it.,1,2022,11,Couple
+409,76,92,4.9,A bit expensive but totally worth it.,5,2021,36,Group
+410,35,20,4.1,Historical significance makes this a very meaningful visit.,11,2022,73,Group
+411,1,60,2.8,One of the best places I've ever visited.,6,2020,72,Solo
+412,40,24,4.2,Great for photography enthusiasts.,8,2022,51,Couple
+413,64,50,2.7,Beautiful architecture and peaceful atmosphere.,3,2023,129,Couple
+414,150,49,2.6,A hidden gem that not many people know about.,3,2020,55,Group
+415,60,51,4.6,A bit expensive but totally worth it.,12,2024,59,Family
+416,64,96,3.0,Best place for adventure seekers!,11,2023,22,Couple
+417,93,36,3.4,"Perfect for family vacations, kids loved it!",11,2021,102,Solo
+418,72,98,4.9,The food and culture here are amazing.,10,2021,39,Family
+419,11,100,3.3,A spiritual experience like no other.,9,2021,63,Couple
+420,105,66,3.2,Great place but can get very crowded during peak season.,4,2023,84,Solo
+421,14,79,4.8,Absolutely stunning! A must-visit for everyone.,4,2023,88,Family
+422,60,34,2.8,"Amazing wildlife experience, saw tigers up close!",12,2023,30,Couple
+423,30,36,4.4,Wonderful hospitality and clean surroundings.,7,2020,19,Solo
+424,35,6,5.0,A hidden gem that not many people know about.,2,2020,129,Family
+425,165,39,4.8,Best place for adventure seekers!,8,2021,12,Couple
+426,5,42,4.1,The sunset view here is absolutely magical.,6,2022,121,Family
+427,83,58,3.3,Great place but can get very crowded during peak season.,3,2021,102,Group
+428,123,12,3.1,The food and culture here are amazing.,9,2024,105,Group
+429,78,3,4.5,The food and culture here are amazing.,5,2020,118,Family
+430,154,18,4.7,Historical significance makes this a very meaningful visit.,8,2023,69,Group
+431,62,40,3.8,"Perfect beach destination, crystal clear waters.",7,2020,98,Group
+432,132,21,3.1,Plan at least 2-3 days to fully explore this place.,8,2023,81,Family
+433,89,15,2.8,Overrated but still worth a visit.,7,2024,74,Group
+434,42,97,2.7,Wonderful hospitality and clean surroundings.,3,2024,117,Family
+435,89,99,4.3,"Perfect beach destination, crystal clear waters.",2,2020,83,Family
+436,146,26,3.6,Great place but can get very crowded during peak season.,7,2023,68,Group
+437,40,8,4.8,Beautiful architecture and peaceful atmosphere.,3,2024,58,Couple
+438,72,100,4.3,One of the best places I've ever visited.,3,2021,125,Family
+439,39,94,3.0,Historical significance makes this a very meaningful visit.,2,2021,110,Family
+440,104,87,4.0,"Amazing wildlife experience, saw tigers up close!",4,2023,61,Couple
+441,14,42,3.6,Historical significance makes this a very meaningful visit.,8,2020,143,Group
+442,32,44,3.9,One of the best places I've ever visited.,12,2024,127,Solo
+443,179,14,4.3,"Perfect for family vacations, kids loved it!",1,2020,104,Couple
+444,125,78,4.5,A bit expensive but totally worth it.,1,2021,67,Solo
+445,166,2,4.6,One of the best places I've ever visited.,12,2024,14,Group
+446,97,37,3.1,The sunset view here is absolutely magical.,5,2020,34,Family
+447,23,69,2.6,The sunset view here is absolutely magical.,11,2022,13,Family
+448,63,38,4.3,Overrated but still worth a visit.,5,2023,101,Group
+449,143,41,2.8,Overrated but still worth a visit.,11,2023,99,Group
+450,153,62,3.3,"Amazing wildlife experience, saw tigers up close!",12,2022,6,Group
+451,145,60,2.5,"Amazing wildlife experience, saw tigers up close!",1,2021,29,Group
+452,194,14,4.2,A bit expensive but totally worth it.,6,2024,48,Group
+453,53,89,2.9,A hidden gem that not many people know about.,1,2023,143,Group
+454,104,84,4.1,A spiritual experience like no other.,5,2022,110,Group
+455,104,2,5.0,Great place but can get very crowded during peak season.,9,2022,71,Family
+456,179,70,2.7,"Perfect beach destination, crystal clear waters.",12,2021,79,Solo
+457,39,17,2.7,Beautiful architecture and peaceful atmosphere.,5,2021,82,Solo
+458,179,89,3.4,A spiritual experience like no other.,6,2020,41,Family
+459,198,28,4.7,Wonderful hospitality and clean surroundings.,8,2023,16,Couple
+460,134,66,3.0,Absolutely stunning! A must-visit for everyone.,11,2020,6,Solo
+461,67,35,3.4,A bit expensive but totally worth it.,1,2022,9,Couple
+462,135,5,2.7,The sunset view here is absolutely magical.,2,2024,33,Family
+463,179,65,4.4,Great for photography enthusiasts.,9,2024,35,Couple
+464,200,40,3.5,A bit expensive but totally worth it.,3,2021,5,Family
+465,42,76,4.4,Historical significance makes this a very meaningful visit.,6,2024,145,Group
+466,192,56,4.8,The sunset view here is absolutely magical.,5,2024,133,Group
+467,15,36,3.1,Beautiful architecture and peaceful atmosphere.,11,2024,28,Solo
+468,111,45,4.5,Plan at least 2-3 days to fully explore this place.,2,2022,125,Solo
+469,157,23,2.6,One of the best places I've ever visited.,7,2024,80,Couple
+470,33,47,4.7,One of the best places I've ever visited.,4,2024,74,Couple
+471,155,31,4.1,Overrated but still worth a visit.,1,2024,25,Solo
+472,164,11,4.7,Best place for adventure seekers!,4,2020,126,Group
+473,157,10,2.5,Wonderful hospitality and clean surroundings.,6,2022,114,Family
+474,38,67,2.9,A hidden gem that not many people know about.,7,2021,125,Group
+475,185,14,3.5,The natural beauty here is unparalleled.,7,2020,27,Solo
+476,97,80,3.4,The natural beauty here is unparalleled.,7,2023,130,Family
+477,155,74,3.1,Great for photography enthusiasts.,3,2022,74,Couple
+478,183,93,3.5,One of the best places I've ever visited.,6,2022,77,Solo
+479,33,10,2.8,Beautiful architecture and peaceful atmosphere.,8,2023,89,Group
+480,196,76,3.5,"Perfect for family vacations, kids loved it!",4,2023,20,Couple
+481,86,94,4.5,One of the best places I've ever visited.,8,2023,53,Couple
+482,66,1,3.7,Historical significance makes this a very meaningful visit.,2,2021,102,Solo
+483,10,5,2.5,Historical significance makes this a very meaningful visit.,10,2024,58,Group
+484,5,20,3.6,A hidden gem that not many people know about.,9,2022,71,Solo
+485,123,8,2.6,A bit expensive but totally worth it.,9,2024,19,Family
+486,74,43,4.9,Beautiful architecture and peaceful atmosphere.,8,2024,111,Family
+487,97,76,2.8,The sunset view here is absolutely magical.,10,2023,58,Couple
+488,118,1,4.3,Great for photography enthusiasts.,10,2021,70,Group
+489,38,57,4.9,"Amazing wildlife experience, saw tigers up close!",1,2020,136,Family
+490,141,64,4.6,Beautiful architecture and peaceful atmosphere.,2,2021,108,Family
+491,159,84,4.2,The natural beauty here is unparalleled.,6,2024,128,Family
+492,47,28,4.6,A hidden gem that not many people know about.,10,2021,55,Family
+493,109,37,5.0,Breathtaking views and wonderful experience.,5,2023,34,Solo
+494,180,47,4.1,Great place but can get very crowded during peak season.,12,2020,122,Couple
+495,184,76,3.9,A hidden gem that not many people know about.,9,2023,130,Couple
+496,15,37,4.1,Beautiful architecture and peaceful atmosphere.,5,2020,103,Family
+497,157,49,3.8,Overrated but still worth a visit.,2,2024,6,Couple
+498,136,44,4.1,"Amazing wildlife experience, saw tigers up close!",10,2020,26,Couple
+499,5,56,3.6,"Amazing wildlife experience, saw tigers up close!",4,2020,0,Couple
+500,157,28,3.0,"Perfect for family vacations, kids loved it!",9,2020,86,Couple
+501,47,79,2.8,A spiritual experience like no other.,1,2021,40,Solo
+502,68,6,2.7,A bit expensive but totally worth it.,11,2021,122,Family
+503,76,61,3.2,A hidden gem that not many people know about.,1,2024,74,Group
+504,173,20,2.6,Overrated but still worth a visit.,12,2020,41,Solo
+505,130,78,3.9,One of the best places I've ever visited.,7,2022,116,Couple
+506,155,2,3.2,The food and culture here are amazing.,11,2024,62,Family
+507,95,73,4.6,"Perfect beach destination, crystal clear waters.",3,2020,126,Family
+508,115,37,2.7,The sunset view here is absolutely magical.,10,2020,132,Family
+509,164,20,3.1,The food and culture here are amazing.,2,2021,47,Family
+510,36,26,4.3,Beautiful architecture and peaceful atmosphere.,9,2024,2,Couple
+511,26,29,4.0,Overrated but still worth a visit.,3,2020,115,Family
+512,43,1,2.7,Plan at least 2-3 days to fully explore this place.,2,2020,98,Group
+513,27,35,4.7,The sunset view here is absolutely magical.,12,2024,115,Group
+514,69,70,4.7,One of the best places I've ever visited.,8,2022,13,Family
+515,148,59,3.3,A hidden gem that not many people know about.,10,2024,111,Couple
+516,11,69,3.4,"Amazing wildlife experience, saw tigers up close!",6,2024,60,Group
+517,74,33,5.0,Great for photography enthusiasts.,6,2022,94,Group
+518,104,51,4.1,Great for photography enthusiasts.,10,2024,16,Group
+519,38,78,3.8,Beautiful architecture and peaceful atmosphere.,11,2020,123,Solo
+520,134,12,4.6,"Amazing wildlife experience, saw tigers up close!",7,2024,23,Solo
+521,200,20,3.2,Plan at least 2-3 days to fully explore this place.,7,2022,115,Group
+522,23,53,3.6,Plan at least 2-3 days to fully explore this place.,11,2023,81,Couple
+523,47,88,3.2,"Perfect for family vacations, kids loved it!",6,2024,49,Couple
+524,90,43,4.5,Great for photography enthusiasts.,4,2021,78,Group
+525,46,98,3.9,Breathtaking views and wonderful experience.,11,2020,78,Group
+526,107,89,4.1,Absolutely stunning! A must-visit for everyone.,9,2020,69,Couple
+527,140,50,3.1,One of the best places I've ever visited.,6,2021,26,Solo
+528,141,29,3.1,Breathtaking views and wonderful experience.,4,2021,14,Solo
+529,104,57,3.7,Great for photography enthusiasts.,12,2024,49,Group
+530,190,39,4.3,The food and culture here are amazing.,3,2021,35,Couple
+531,111,95,3.8,"Perfect beach destination, crystal clear waters.",4,2023,7,Solo
+532,104,56,2.6,Great for photography enthusiasts.,3,2022,78,Group
+533,60,43,4.7,The natural beauty here is unparalleled.,2,2021,130,Family
+534,171,50,2.7,Plan at least 2-3 days to fully explore this place.,5,2021,46,Group
+535,100,23,4.9,Absolutely stunning! A must-visit for everyone.,2,2023,104,Family
+536,68,44,2.6,Wonderful hospitality and clean surroundings.,6,2020,97,Group
+537,133,38,4.2,The sunset view here is absolutely magical.,3,2020,95,Couple
+538,120,84,2.7,Overrated but still worth a visit.,6,2024,115,Couple
+539,37,23,4.8,Overrated but still worth a visit.,11,2023,12,Couple
+540,72,45,3.7,Wonderful hospitality and clean surroundings.,10,2022,0,Couple
+541,127,52,2.8,A spiritual experience like no other.,9,2022,33,Family
+542,106,80,3.4,Best place for adventure seekers!,1,2023,78,Group
+543,92,50,2.9,Overrated but still worth a visit.,6,2022,77,Couple
+544,31,8,2.9,Historical significance makes this a very meaningful visit.,9,2020,120,Solo
+545,122,85,4.9,One of the best places I've ever visited.,11,2022,92,Solo
+546,137,1,3.6,Breathtaking views and wonderful experience.,4,2022,97,Solo
+547,51,8,4.5,"Amazing wildlife experience, saw tigers up close!",11,2023,81,Group
+548,29,29,4.1,Historical significance makes this a very meaningful visit.,12,2023,37,Solo
+549,40,96,4.2,The natural beauty here is unparalleled.,2,2022,13,Solo
+550,41,5,2.8,Wonderful hospitality and clean surroundings.,4,2021,135,Family
+551,11,86,3.1,Historical significance makes this a very meaningful visit.,1,2023,90,Group
+552,151,47,4.5,"Perfect beach destination, crystal clear waters.",3,2024,53,Group
+553,1,34,4.9,"Perfect for family vacations, kids loved it!",10,2024,129,Solo
+554,46,65,3.2,Plan at least 2-3 days to fully explore this place.,9,2020,100,Group
+555,101,55,3.2,Beautiful architecture and peaceful atmosphere.,10,2022,88,Family
+556,149,90,3.7,"Perfect for family vacations, kids loved it!",5,2021,55,Family
+557,90,43,5.0,"Perfect for family vacations, kids loved it!",11,2020,93,Couple
+558,110,74,3.2,A bit expensive but totally worth it.,6,2022,92,Family
+559,164,30,3.5,Best place for adventure seekers!,3,2023,83,Couple
+560,182,82,4.7,Beautiful architecture and peaceful atmosphere.,5,2024,84,Solo
+561,57,17,2.5,A bit expensive but totally worth it.,11,2021,21,Couple
+562,1,26,2.6,A hidden gem that not many people know about.,8,2024,34,Couple
+563,63,8,4.0,The sunset view here is absolutely magical.,6,2023,15,Solo
+564,182,47,4.8,Great place but can get very crowded during peak season.,4,2022,49,Couple
+565,55,76,3.1,"Perfect for family vacations, kids loved it!",2,2023,121,Family
+566,115,91,3.7,A spiritual experience like no other.,9,2023,127,Solo
+567,168,72,3.6,Historical significance makes this a very meaningful visit.,12,2024,112,Group
+568,143,89,3.7,Great place but can get very crowded during peak season.,1,2021,16,Couple
+569,149,46,4.1,The food and culture here are amazing.,1,2023,79,Family
+570,175,68,3.7,Historical significance makes this a very meaningful visit.,4,2024,129,Group
+571,53,33,3.6,A spiritual experience like no other.,7,2021,131,Solo
+572,137,1,3.7,Beautiful architecture and peaceful atmosphere.,1,2022,84,Solo
+573,180,19,4.0,Great place but can get very crowded during peak season.,9,2022,93,Solo
+574,57,31,3.8,Breathtaking views and wonderful experience.,4,2020,133,Family
+575,117,80,4.6,Overrated but still worth a visit.,3,2024,80,Group
+576,154,14,2.6,Best place for adventure seekers!,1,2021,68,Solo
+577,169,53,4.6,Plan at least 2-3 days to fully explore this place.,10,2023,68,Family
+578,35,48,4.6,The natural beauty here is unparalleled.,4,2022,147,Family
+579,63,69,3.2,A spiritual experience like no other.,9,2021,15,Group
+580,25,90,3.7,"Amazing wildlife experience, saw tigers up close!",10,2024,50,Solo
+581,90,62,3.6,"Perfect for family vacations, kids loved it!",6,2020,104,Solo
+582,75,92,3.0,Great for photography enthusiasts.,6,2022,65,Couple
+583,38,66,3.5,"Perfect for family vacations, kids loved it!",1,2021,8,Solo
+584,130,64,2.6,"Perfect beach destination, crystal clear waters.",10,2021,106,Group
+585,135,70,3.2,"Amazing wildlife experience, saw tigers up close!",2,2021,99,Family
+586,162,63,4.5,Wonderful hospitality and clean surroundings.,11,2024,85,Group
+587,91,73,3.2,A hidden gem that not many people know about.,6,2024,63,Solo
+588,17,33,4.5,Historical significance makes this a very meaningful visit.,2,2024,21,Family
+589,128,41,3.8,Wonderful hospitality and clean surroundings.,3,2023,109,Group
+590,171,89,4.7,Overrated but still worth a visit.,4,2021,96,Solo
+591,187,48,3.9,Wonderful hospitality and clean surroundings.,11,2022,17,Solo
+592,108,13,2.6,Absolutely stunning! A must-visit for everyone.,5,2024,70,Solo
+593,179,73,4.2,One of the best places I've ever visited.,9,2024,126,Couple
+594,182,77,2.6,Best place for adventure seekers!,12,2021,96,Couple
+595,152,31,3.6,A hidden gem that not many people know about.,4,2024,0,Couple
+596,25,75,4.8,Historical significance makes this a very meaningful visit.,11,2023,131,Family
+597,199,68,2.9,A spiritual experience like no other.,9,2023,3,Group
+598,180,98,3.5,"Perfect beach destination, crystal clear waters.",11,2024,124,Family
+599,198,4,4.3,Great for photography enthusiasts.,10,2021,81,Family
+600,88,19,4.7,A bit expensive but totally worth it.,3,2021,26,Solo
+601,161,70,4.2,Breathtaking views and wonderful experience.,8,2021,58,Solo
+602,177,98,3.1,Breathtaking views and wonderful experience.,12,2020,31,Family
+603,29,82,4.2,Overrated but still worth a visit.,1,2024,27,Group
+604,63,13,3.2,Wonderful hospitality and clean surroundings.,11,2021,105,Couple
+605,150,23,4.3,Plan at least 2-3 days to fully explore this place.,9,2023,104,Family
+606,154,83,4.9,Wonderful hospitality and clean surroundings.,9,2022,69,Family
+607,156,75,4.3,Overrated but still worth a visit.,10,2022,61,Group
+608,114,1,4.7,The sunset view here is absolutely magical.,2,2021,33,Group
+609,49,88,2.5,Absolutely stunning! A must-visit for everyone.,4,2022,86,Family
+610,199,54,4.3,Great place but can get very crowded during peak season.,8,2022,113,Solo
+611,81,71,4.6,The natural beauty here is unparalleled.,7,2020,105,Solo
+612,84,89,2.6,Beautiful architecture and peaceful atmosphere.,1,2023,55,Family
+613,105,85,4.7,The food and culture here are amazing.,5,2023,112,Solo
+614,177,15,3.1,A bit expensive but totally worth it.,7,2020,12,Group
+615,148,65,4.2,Best place for adventure seekers!,4,2020,17,Couple
+616,118,76,4.5,A bit expensive but totally worth it.,1,2022,112,Group
+617,86,71,4.2,Breathtaking views and wonderful experience.,9,2024,38,Couple
+618,63,15,2.7,Best place for adventure seekers!,5,2022,78,Family
+619,189,21,4.0,Breathtaking views and wonderful experience.,11,2020,145,Family
+620,104,19,3.9,Great for photography enthusiasts.,2,2023,29,Couple
+621,49,60,4.8,The sunset view here is absolutely magical.,8,2022,97,Solo
+622,71,93,3.5,"Perfect beach destination, crystal clear waters.",11,2024,57,Family
+623,1,89,3.3,A bit expensive but totally worth it.,2,2022,66,Couple
+624,141,33,4.4,The sunset view here is absolutely magical.,3,2021,70,Solo
+625,179,49,3.5,Overrated but still worth a visit.,10,2022,145,Couple
+626,123,96,4.1,One of the best places I've ever visited.,1,2020,105,Family
+627,184,35,4.1,Best place for adventure seekers!,11,2023,6,Family
+628,62,44,4.7,A hidden gem that not many people know about.,2,2023,39,Group
+629,32,90,4.0,Historical significance makes this a very meaningful visit.,7,2020,69,Couple
+630,158,11,3.8,The sunset view here is absolutely magical.,10,2021,67,Solo
+631,29,99,2.8,The food and culture here are amazing.,2,2020,48,Family
+632,49,72,2.8,Plan at least 2-3 days to fully explore this place.,6,2022,51,Group
+633,173,78,2.9,Plan at least 2-3 days to fully explore this place.,3,2020,113,Group
+634,30,74,2.9,Great place but can get very crowded during peak season.,4,2020,106,Solo
+635,144,66,4.1,Beautiful architecture and peaceful atmosphere.,11,2021,28,Family
+636,168,46,4.4,Great place but can get very crowded during peak season.,8,2022,148,Group
+637,19,9,3.8,Best place for adventure seekers!,3,2024,77,Solo
+638,18,3,4.6,A bit expensive but totally worth it.,10,2024,8,Solo
+639,1,85,5.0,"Perfect for family vacations, kids loved it!",6,2023,75,Couple
+640,78,26,4.6,The sunset view here is absolutely magical.,1,2020,41,Couple
+641,115,72,4.2,A bit expensive but totally worth it.,7,2023,127,Family
+642,175,48,3.8,Beautiful architecture and peaceful atmosphere.,8,2021,19,Group
+643,194,66,3.6,"Perfect beach destination, crystal clear waters.",11,2024,71,Group
+644,113,70,2.7,Plan at least 2-3 days to fully explore this place.,8,2020,64,Couple
+645,114,28,3.5,A hidden gem that not many people know about.,3,2021,112,Family
+646,166,93,4.8,Best place for adventure seekers!,10,2021,23,Group
+647,179,26,4.5,A hidden gem that not many people know about.,1,2020,127,Solo
+648,63,25,3.0,Breathtaking views and wonderful experience.,9,2021,82,Solo
+649,132,12,3.7,Breathtaking views and wonderful experience.,6,2020,62,Solo
+650,129,5,4.5,Breathtaking views and wonderful experience.,11,2020,59,Solo
+651,8,98,2.7,Beautiful architecture and peaceful atmosphere.,9,2022,98,Couple
+652,157,48,3.5,"Perfect for family vacations, kids loved it!",7,2023,61,Family
+653,55,37,4.6,Wonderful hospitality and clean surroundings.,1,2021,29,Solo
+654,103,79,3.5,A hidden gem that not many people know about.,12,2021,21,Solo
+655,131,44,2.7,Historical significance makes this a very meaningful visit.,12,2022,125,Group
+656,32,100,3.9,Beautiful architecture and peaceful atmosphere.,1,2022,41,Couple
+657,10,15,4.7,Plan at least 2-3 days to fully explore this place.,6,2022,97,Group
+658,110,43,4.0,A hidden gem that not many people know about.,5,2024,30,Group
+659,162,48,3.1,Beautiful architecture and peaceful atmosphere.,9,2024,111,Group
+660,124,87,3.5,"Perfect for family vacations, kids loved it!",2,2024,145,Solo
+661,87,70,3.6,Plan at least 2-3 days to fully explore this place.,8,2020,121,Family
+662,55,46,3.9,"Perfect for family vacations, kids loved it!",11,2021,16,Couple
+663,32,43,4.4,"Amazing wildlife experience, saw tigers up close!",5,2023,37,Solo
+664,178,21,2.7,Best place for adventure seekers!,2,2020,141,Couple
+665,135,23,4.7,Plan at least 2-3 days to fully explore this place.,10,2021,109,Solo
+666,93,80,2.5,Overrated but still worth a visit.,11,2021,21,Family
+667,8,47,3.4,Great for photography enthusiasts.,11,2022,55,Family
+668,65,15,2.6,"Perfect for family vacations, kids loved it!",12,2022,118,Couple
+669,57,25,3.5,A hidden gem that not many people know about.,6,2020,146,Group
+670,67,36,3.8,A hidden gem that not many people know about.,10,2022,56,Solo
+671,187,75,3.8,The sunset view here is absolutely magical.,8,2021,34,Couple
+672,72,51,2.9,Wonderful hospitality and clean surroundings.,4,2022,113,Group
+673,54,15,4.1,Great for photography enthusiasts.,2,2024,124,Family
+674,67,68,2.6,Overrated but still worth a visit.,12,2022,128,Solo
+675,51,21,4.4,Wonderful hospitality and clean surroundings.,11,2021,51,Family
+676,97,13,4.9,Absolutely stunning! A must-visit for everyone.,5,2020,84,Solo
+677,92,86,3.3,A bit expensive but totally worth it.,12,2023,64,Group
+678,8,19,3.8,"Perfect for family vacations, kids loved it!",2,2022,128,Solo
+679,162,34,3.4,Great place but can get very crowded during peak season.,2,2021,20,Group
+680,35,78,2.5,The natural beauty here is unparalleled.,6,2023,15,Solo
+681,96,68,3.5,Great for photography enthusiasts.,11,2023,122,Couple
+682,88,52,4.5,Overrated but still worth a visit.,10,2024,60,Family
+683,78,27,4.0,Absolutely stunning! A must-visit for everyone.,9,2023,53,Solo
+684,32,29,2.8,Plan at least 2-3 days to fully explore this place.,4,2021,25,Solo
+685,120,28,4.6,Wonderful hospitality and clean surroundings.,6,2021,79,Family
+686,46,35,3.8,The food and culture here are amazing.,7,2022,64,Solo
+687,144,8,4.6,Great for photography enthusiasts.,11,2022,99,Family
+688,196,16,4.0,Great for photography enthusiasts.,6,2022,73,Group
+689,165,36,3.9,A spiritual experience like no other.,8,2023,16,Couple
+690,182,30,2.8,Breathtaking views and wonderful experience.,4,2023,120,Couple
+691,142,18,2.9,Great for photography enthusiasts.,12,2024,22,Family
+692,55,2,4.9,Wonderful hospitality and clean surroundings.,1,2022,134,Couple
+693,176,49,3.1,"Amazing wildlife experience, saw tigers up close!",7,2020,70,Family
+694,7,77,4.9,A hidden gem that not many people know about.,3,2024,107,Couple
+695,74,4,3.8,Plan at least 2-3 days to fully explore this place.,6,2020,78,Solo
+696,7,90,2.8,Best place for adventure seekers!,2,2023,45,Solo
+697,161,89,2.7,Beautiful architecture and peaceful atmosphere.,9,2024,77,Couple
+698,151,94,3.0,A spiritual experience like no other.,1,2024,15,Group
+699,85,75,4.8,Breathtaking views and wonderful experience.,6,2021,70,Couple
+700,147,7,3.5,Great for photography enthusiasts.,6,2023,95,Solo
+701,112,95,3.5,Great place but can get very crowded during peak season.,5,2023,146,Couple
+702,125,74,3.3,"Perfect beach destination, crystal clear waters.",5,2024,1,Solo
+703,147,39,2.9,Absolutely stunning! A must-visit for everyone.,1,2023,9,Group
+704,36,13,3.7,Historical significance makes this a very meaningful visit.,10,2024,124,Group
+705,29,31,2.8,"Perfect for family vacations, kids loved it!",12,2021,80,Couple
+706,188,71,4.6,The natural beauty here is unparalleled.,5,2024,139,Solo
+707,82,63,3.4,Beautiful architecture and peaceful atmosphere.,2,2023,69,Group
+708,2,56,3.4,The natural beauty here is unparalleled.,7,2023,149,Family
+709,129,42,3.7,"Perfect beach destination, crystal clear waters.",3,2024,31,Couple
+710,47,61,3.6,The natural beauty here is unparalleled.,4,2024,104,Family
+711,197,42,5.0,A hidden gem that not many people know about.,3,2024,83,Couple
+712,148,56,3.9,Plan at least 2-3 days to fully explore this place.,3,2022,128,Solo
+713,11,36,2.7,Wonderful hospitality and clean surroundings.,4,2023,57,Solo
+714,130,84,4.0,Breathtaking views and wonderful experience.,5,2023,145,Family
+715,195,68,2.9,Beautiful architecture and peaceful atmosphere.,1,2022,133,Solo
+716,119,7,2.6,A hidden gem that not many people know about.,4,2024,44,Solo
+717,140,54,4.9,"Perfect beach destination, crystal clear waters.",12,2021,96,Solo
+718,20,1,4.4,The sunset view here is absolutely magical.,12,2024,22,Family
+719,5,44,5.0,"Perfect for family vacations, kids loved it!",11,2024,22,Solo
+720,37,45,3.7,Wonderful hospitality and clean surroundings.,8,2022,134,Group
+721,166,47,3.8,A hidden gem that not many people know about.,10,2023,78,Couple
+722,137,13,2.9,Best place for adventure seekers!,7,2024,43,Group
+723,53,22,3.1,"Perfect for family vacations, kids loved it!",9,2023,26,Family
+724,172,21,4.6,"Amazing wildlife experience, saw tigers up close!",5,2020,25,Family
+725,99,86,3.4,Historical significance makes this a very meaningful visit.,10,2023,96,Solo
+726,86,92,4.6,The sunset view here is absolutely magical.,4,2021,35,Group
+727,108,9,4.3,"Perfect for family vacations, kids loved it!",8,2021,108,Family
+728,24,26,2.9,The sunset view here is absolutely magical.,9,2024,54,Couple
+729,81,9,3.8,A bit expensive but totally worth it.,7,2023,68,Family
+730,158,15,4.2,The food and culture here are amazing.,7,2024,60,Group
+731,120,10,3.1,Plan at least 2-3 days to fully explore this place.,5,2022,129,Couple
+732,59,88,4.6,Wonderful hospitality and clean surroundings.,4,2021,54,Couple
+733,128,42,3.9,"Perfect beach destination, crystal clear waters.",10,2024,121,Solo
+734,114,72,2.9,A spiritual experience like no other.,1,2022,96,Couple
+735,115,24,4.0,The food and culture here are amazing.,10,2024,79,Solo
+736,14,80,5.0,The sunset view here is absolutely magical.,10,2023,86,Solo
+737,9,49,2.9,Overrated but still worth a visit.,7,2023,37,Family
+738,40,26,4.5,A spiritual experience like no other.,1,2023,118,Family
+739,194,91,3.0,Overrated but still worth a visit.,1,2023,77,Solo
+740,25,37,4.5,Overrated but still worth a visit.,5,2020,34,Group
+741,103,68,4.3,"Perfect beach destination, crystal clear waters.",9,2022,78,Solo
+742,22,50,3.3,Wonderful hospitality and clean surroundings.,6,2022,66,Group
+743,4,24,3.3,"Perfect for family vacations, kids loved it!",3,2023,86,Couple
+744,154,19,4.5,Wonderful hospitality and clean surroundings.,3,2020,33,Couple
+745,186,100,3.7,A bit expensive but totally worth it.,7,2023,96,Couple
+746,29,60,4.3,The sunset view here is absolutely magical.,6,2020,70,Solo
+747,109,39,2.9,The food and culture here are amazing.,9,2023,2,Group
+748,98,74,4.6,Overrated but still worth a visit.,6,2021,57,Solo
+749,37,89,4.3,Great place but can get very crowded during peak season.,5,2021,31,Couple
+750,75,18,4.8,Great for photography enthusiasts.,10,2024,30,Family
+751,70,19,2.8,The sunset view here is absolutely magical.,7,2023,81,Couple
+752,146,36,4.0,Best place for adventure seekers!,1,2022,42,Couple
+753,128,74,4.0,Best place for adventure seekers!,12,2024,134,Family
+754,85,97,3.4,A bit expensive but totally worth it.,7,2021,104,Group
+755,42,55,3.6,Beautiful architecture and peaceful atmosphere.,3,2023,0,Couple
+756,100,69,2.6,Overrated but still worth a visit.,9,2024,60,Group
+757,41,47,4.4,Breathtaking views and wonderful experience.,6,2023,13,Family
+758,166,49,3.9,Overrated but still worth a visit.,9,2021,5,Family
+759,34,99,2.6,One of the best places I've ever visited.,5,2024,102,Family
+760,17,98,4.2,A bit expensive but totally worth it.,7,2021,9,Solo
+761,165,33,3.7,Historical significance makes this a very meaningful visit.,4,2020,70,Group
+762,153,21,2.6,The food and culture here are amazing.,7,2021,89,Solo
+763,122,81,4.9,Wonderful hospitality and clean surroundings.,1,2023,148,Family
+764,76,22,4.9,"Perfect beach destination, crystal clear waters.",7,2022,125,Couple
+765,87,48,3.8,"Perfect beach destination, crystal clear waters.",8,2021,96,Solo
+766,117,37,2.7,The sunset view here is absolutely magical.,5,2022,73,Couple
+767,106,15,4.4,The food and culture here are amazing.,2,2020,114,Solo
+768,86,35,3.7,The sunset view here is absolutely magical.,5,2024,50,Group
+769,27,92,3.3,The food and culture here are amazing.,6,2024,55,Couple
+770,57,71,3.7,Beautiful architecture and peaceful atmosphere.,12,2022,40,Solo
+771,31,32,3.8,Great place but can get very crowded during peak season.,2,2024,31,Family
+772,134,11,3.9,Plan at least 2-3 days to fully explore this place.,6,2021,14,Family
+773,168,10,3.6,Great for photography enthusiasts.,6,2022,61,Group
+774,98,73,4.0,A spiritual experience like no other.,1,2023,27,Group
+775,12,78,4.8,A spiritual experience like no other.,1,2021,63,Solo
+776,53,77,3.4,Breathtaking views and wonderful experience.,11,2021,129,Family
+777,199,57,4.3,A hidden gem that not many people know about.,10,2021,126,Couple
+778,138,25,4.7,A spiritual experience like no other.,3,2023,35,Solo
+779,173,2,3.6,A spiritual experience like no other.,10,2020,113,Solo
+780,145,64,3.6,Breathtaking views and wonderful experience.,10,2024,12,Family
+781,154,35,4.0,Great place but can get very crowded during peak season.,12,2022,14,Group
+782,190,7,4.0,The natural beauty here is unparalleled.,3,2020,88,Couple
+783,122,85,4.5,"Perfect for family vacations, kids loved it!",4,2022,21,Group
+784,46,18,3.7,Wonderful hospitality and clean surroundings.,2,2024,73,Solo
+785,64,67,5.0,Great place but can get very crowded during peak season.,9,2023,24,Solo
+786,130,42,2.6,Beautiful architecture and peaceful atmosphere.,10,2021,100,Family
+787,54,39,2.5,Absolutely stunning! A must-visit for everyone.,12,2021,116,Group
+788,107,41,4.1,The sunset view here is absolutely magical.,11,2023,40,Solo
+789,193,75,3.2,"Amazing wildlife experience, saw tigers up close!",7,2020,87,Solo
+790,51,24,3.1,The natural beauty here is unparalleled.,7,2020,109,Group
+791,181,60,3.3,Wonderful hospitality and clean surroundings.,6,2022,119,Family
+792,36,46,3.1,Wonderful hospitality and clean surroundings.,3,2023,96,Family
+793,115,19,2.6,"Perfect beach destination, crystal clear waters.",6,2020,144,Couple
+794,26,68,4.9,Overrated but still worth a visit.,12,2023,56,Couple
+795,29,90,3.1,"Perfect for family vacations, kids loved it!",8,2024,129,Couple
+796,149,42,4.3,Overrated but still worth a visit.,8,2021,95,Group
+797,11,32,4.4,Breathtaking views and wonderful experience.,11,2021,120,Couple
+798,40,39,4.8,One of the best places I've ever visited.,9,2021,61,Couple
+799,11,36,2.6,Great for photography enthusiasts.,1,2023,136,Group
+800,164,97,4.7,A spiritual experience like no other.,1,2023,67,Couple
+801,113,36,3.8,The sunset view here is absolutely magical.,3,2022,80,Family
+802,187,3,4.1,Breathtaking views and wonderful experience.,3,2021,16,Solo
+803,39,73,4.1,"Amazing wildlife experience, saw tigers up close!",10,2022,116,Family
+804,54,8,4.5,The natural beauty here is unparalleled.,8,2021,49,Family
+805,98,97,3.3,"Amazing wildlife experience, saw tigers up close!",10,2022,111,Solo
+806,55,70,4.3,Breathtaking views and wonderful experience.,1,2022,93,Family
+807,111,41,3.8,Best place for adventure seekers!,2,2024,84,Solo
+808,152,68,4.5,Wonderful hospitality and clean surroundings.,2,2022,148,Family
+809,150,13,5.0,"Amazing wildlife experience, saw tigers up close!",3,2023,145,Group
+810,69,49,3.0,Overrated but still worth a visit.,6,2022,73,Group
+811,56,60,5.0,Breathtaking views and wonderful experience.,1,2021,108,Couple
+812,33,2,2.7,Absolutely stunning! A must-visit for everyone.,2,2022,144,Group
+813,36,60,2.5,Overrated but still worth a visit.,1,2020,17,Solo
+814,148,5,2.6,Great for photography enthusiasts.,5,2021,41,Couple
+815,81,44,3.4,Plan at least 2-3 days to fully explore this place.,7,2020,100,Family
+816,190,27,4.1,Great place but can get very crowded during peak season.,8,2021,44,Group
+817,109,32,2.7,"Perfect for family vacations, kids loved it!",10,2023,81,Couple
+818,154,21,2.5,Overrated but still worth a visit.,1,2023,16,Group
+819,194,8,4.8,Historical significance makes this a very meaningful visit.,7,2023,72,Couple
+820,73,72,4.6,The sunset view here is absolutely magical.,5,2020,13,Solo
+821,40,50,4.5,A hidden gem that not many people know about.,10,2024,131,Solo
+822,17,67,4.7,Wonderful hospitality and clean surroundings.,1,2021,81,Family
+823,129,44,4.3,Beautiful architecture and peaceful atmosphere.,3,2023,147,Couple
+824,61,58,2.8,A hidden gem that not many people know about.,7,2021,119,Solo
+825,171,3,3.5,Historical significance makes this a very meaningful visit.,10,2020,119,Family
+826,104,86,4.3,The food and culture here are amazing.,1,2024,46,Couple
+827,42,70,3.2,"Perfect beach destination, crystal clear waters.",7,2020,106,Family
+828,25,2,4.2,Great place but can get very crowded during peak season.,5,2021,107,Solo
+829,39,87,2.6,"Perfect for family vacations, kids loved it!",1,2024,8,Family
+830,35,44,3.3,"Amazing wildlife experience, saw tigers up close!",1,2024,78,Couple
+831,131,2,3.9,Historical significance makes this a very meaningful visit.,1,2020,14,Group
+832,108,81,4.1,The food and culture here are amazing.,11,2023,18,Solo
+833,172,35,3.9,"Amazing wildlife experience, saw tigers up close!",9,2021,89,Couple
+834,179,98,4.2,Absolutely stunning! A must-visit for everyone.,11,2022,25,Couple
+835,102,87,2.5,"Perfect for family vacations, kids loved it!",3,2022,91,Family
+836,98,30,2.8,Overrated but still worth a visit.,5,2020,81,Solo
+837,12,8,4.7,Great for photography enthusiasts.,11,2021,130,Group
+838,19,22,4.2,"Perfect beach destination, crystal clear waters.",10,2021,41,Group
+839,101,44,2.8,"Amazing wildlife experience, saw tigers up close!",12,2020,18,Family
+840,44,58,4.6,Plan at least 2-3 days to fully explore this place.,9,2021,16,Solo
+841,187,36,3.1,Best place for adventure seekers!,6,2023,75,Group
+842,49,69,3.7,The natural beauty here is unparalleled.,12,2020,62,Solo
+843,189,77,2.9,A hidden gem that not many people know about.,9,2023,130,Family
+844,17,93,4.3,"Perfect for family vacations, kids loved it!",8,2021,106,Solo
+845,74,31,4.2,One of the best places I've ever visited.,8,2020,48,Solo
+846,57,47,3.0,Best place for adventure seekers!,1,2021,54,Solo
+847,55,55,4.7,Great place but can get very crowded during peak season.,9,2020,98,Family
+848,47,80,3.5,"Amazing wildlife experience, saw tigers up close!",6,2021,51,Family
+849,12,62,3.2,Beautiful architecture and peaceful atmosphere.,9,2023,99,Family
+850,62,30,2.9,Wonderful hospitality and clean surroundings.,3,2023,116,Group
+851,80,55,3.2,"Perfect for family vacations, kids loved it!",12,2021,117,Couple
+852,83,16,2.6,A spiritual experience like no other.,3,2020,6,Solo
+853,8,12,4.0,Absolutely stunning! A must-visit for everyone.,6,2022,45,Couple
+854,149,17,4.6,The food and culture here are amazing.,9,2023,45,Solo
+855,81,16,3.9,Best place for adventure seekers!,7,2023,99,Solo
+856,118,12,3.0,A spiritual experience like no other.,3,2022,143,Solo
+857,198,8,2.6,Historical significance makes this a very meaningful visit.,3,2021,53,Family
+858,200,84,3.0,The food and culture here are amazing.,2,2020,61,Group
+859,25,3,3.5,"Perfect for family vacations, kids loved it!",9,2021,128,Family
+860,89,16,4.4,Overrated but still worth a visit.,3,2024,48,Solo
+861,12,30,3.0,Great for photography enthusiasts.,11,2023,24,Couple
+862,143,23,4.3,Great for photography enthusiasts.,5,2024,9,Solo
+863,59,92,4.7,Absolutely stunning! A must-visit for everyone.,9,2023,117,Solo
+864,154,5,3.6,The food and culture here are amazing.,8,2023,143,Group
+865,109,84,4.6,A bit expensive but totally worth it.,2,2024,91,Solo
+866,26,65,3.9,A spiritual experience like no other.,3,2024,133,Family
+867,47,30,4.1,Breathtaking views and wonderful experience.,2,2021,143,Group
+868,32,21,3.8,Great place but can get very crowded during peak season.,8,2024,147,Group
+869,10,84,3.7,Historical significance makes this a very meaningful visit.,6,2021,79,Group
+870,16,70,3.1,Overrated but still worth a visit.,6,2021,70,Solo
+871,199,22,3.3,"Amazing wildlife experience, saw tigers up close!",12,2021,77,Group
+872,145,82,3.2,Best place for adventure seekers!,9,2023,42,Group
+873,151,72,3.9,A hidden gem that not many people know about.,8,2023,89,Family
+874,26,32,2.8,Overrated but still worth a visit.,4,2024,77,Couple
+875,86,33,4.8,Great place but can get very crowded during peak season.,12,2023,25,Family
+876,135,16,4.3,Overrated but still worth a visit.,4,2024,120,Family
+877,14,76,3.5,A bit expensive but totally worth it.,9,2023,44,Couple
+878,79,38,2.9,Plan at least 2-3 days to fully explore this place.,1,2020,62,Couple
+879,117,98,4.7,A spiritual experience like no other.,2,2020,67,Group
+880,7,14,4.6,A spiritual experience like no other.,2,2024,1,Family
+881,137,36,4.3,Beautiful architecture and peaceful atmosphere.,6,2023,141,Solo
+882,115,97,3.2,Wonderful hospitality and clean surroundings.,4,2023,107,Family
+883,176,23,3.5,Beautiful architecture and peaceful atmosphere.,11,2021,29,Couple
+884,72,66,2.8,Historical significance makes this a very meaningful visit.,10,2022,48,Group
+885,59,85,3.0,Plan at least 2-3 days to fully explore this place.,3,2024,139,Group
+886,82,2,4.5,A bit expensive but totally worth it.,3,2022,43,Group
+887,116,91,4.3,The natural beauty here is unparalleled.,3,2022,12,Solo
+888,167,73,4.0,The sunset view here is absolutely magical.,6,2024,77,Solo
+889,146,65,4.7,Wonderful hospitality and clean surroundings.,8,2023,125,Couple
+890,187,75,4.0,The sunset view here is absolutely magical.,11,2024,97,Group
+891,103,67,3.7,"Perfect beach destination, crystal clear waters.",7,2022,25,Family
+892,17,52,3.4,A spiritual experience like no other.,4,2023,148,Group
+893,14,62,4.9,Plan at least 2-3 days to fully explore this place.,11,2020,47,Family
+894,159,23,2.7,One of the best places I've ever visited.,12,2024,65,Family
+895,152,26,4.8,A hidden gem that not many people know about.,4,2024,86,Solo
+896,108,68,4.6,Historical significance makes this a very meaningful visit.,11,2023,78,Group
+897,188,82,2.8,A hidden gem that not many people know about.,10,2020,22,Couple
+898,45,55,3.9,A bit expensive but totally worth it.,11,2020,80,Group
+899,98,6,4.7,One of the best places I've ever visited.,11,2023,47,Group
+900,131,35,3.9,Great for photography enthusiasts.,11,2021,123,Couple
+901,37,22,4.8,Great place but can get very crowded during peak season.,2,2024,129,Couple
+902,171,43,4.9,Breathtaking views and wonderful experience.,1,2024,83,Group
+903,168,15,3.6,The sunset view here is absolutely magical.,9,2022,19,Couple
+904,183,86,3.4,A hidden gem that not many people know about.,12,2023,45,Family
+905,108,60,4.8,"Perfect beach destination, crystal clear waters.",12,2022,130,Solo
+906,39,12,4.2,Great for photography enthusiasts.,2,2022,11,Couple
+907,15,49,2.8,The sunset view here is absolutely magical.,8,2020,39,Family
+908,120,42,2.6,Beautiful architecture and peaceful atmosphere.,9,2024,65,Solo
+909,4,38,3.9,"Amazing wildlife experience, saw tigers up close!",4,2022,99,Couple
+910,93,82,4.8,"Perfect for family vacations, kids loved it!",8,2020,77,Solo
+911,153,45,4.6,A hidden gem that not many people know about.,9,2023,15,Group
+912,141,35,4.2,Historical significance makes this a very meaningful visit.,10,2022,82,Couple
+913,161,30,2.8,Great place but can get very crowded during peak season.,10,2024,43,Family
+914,16,88,3.1,"Perfect beach destination, crystal clear waters.",5,2022,133,Family
+915,170,30,4.7,Great for photography enthusiasts.,7,2023,99,Solo
+916,108,78,3.0,Wonderful hospitality and clean surroundings.,10,2022,21,Family
+917,126,6,3.2,One of the best places I've ever visited.,4,2024,17,Family
+918,194,67,2.8,A hidden gem that not many people know about.,1,2020,11,Couple
+919,55,80,4.2,Historical significance makes this a very meaningful visit.,3,2024,122,Solo
+920,170,7,4.9,Breathtaking views and wonderful experience.,5,2020,116,Family
+921,34,52,3.2,Historical significance makes this a very meaningful visit.,3,2021,50,Group
+922,158,14,3.7,Beautiful architecture and peaceful atmosphere.,12,2024,70,Couple
+923,13,73,4.1,A hidden gem that not many people know about.,11,2024,47,Family
+924,141,15,5.0,The natural beauty here is unparalleled.,7,2023,18,Family
+925,18,21,2.8,Historical significance makes this a very meaningful visit.,12,2022,5,Family
+926,160,35,3.7,Great for photography enthusiasts.,9,2020,83,Couple
+927,96,66,3.5,Breathtaking views and wonderful experience.,12,2020,52,Couple
+928,123,91,4.7,The sunset view here is absolutely magical.,6,2023,106,Solo
+929,39,2,3.7,Historical significance makes this a very meaningful visit.,10,2023,100,Couple
+930,46,35,2.8,Overrated but still worth a visit.,1,2022,47,Family
+931,29,82,4.1,Absolutely stunning! A must-visit for everyone.,7,2022,134,Family
+932,190,78,4.4,Best place for adventure seekers!,3,2024,68,Group
+933,62,20,2.5,The food and culture here are amazing.,5,2021,10,Couple
+934,185,82,4.6,Absolutely stunning! A must-visit for everyone.,10,2022,142,Family
+935,16,10,3.0,"Perfect beach destination, crystal clear waters.",4,2023,130,Group
+936,184,25,3.9,Great for photography enthusiasts.,10,2022,121,Solo
+937,121,66,3.5,One of the best places I've ever visited.,5,2020,68,Solo
+938,10,25,4.3,Breathtaking views and wonderful experience.,5,2021,22,Solo
+939,158,54,3.4,The natural beauty here is unparalleled.,6,2024,36,Family
+940,153,33,4.7,A bit expensive but totally worth it.,10,2020,8,Family
+941,103,36,4.3,One of the best places I've ever visited.,12,2020,14,Solo
+942,84,95,4.1,The sunset view here is absolutely magical.,10,2021,130,Group
+943,133,14,4.5,Breathtaking views and wonderful experience.,11,2024,92,Solo
+944,65,65,4.4,One of the best places I've ever visited.,6,2023,16,Couple
+945,177,80,2.6,Wonderful hospitality and clean surroundings.,8,2024,148,Family
+946,3,54,3.5,Breathtaking views and wonderful experience.,8,2022,71,Family
+947,173,52,4.8,Overrated but still worth a visit.,11,2020,148,Couple
+948,142,3,2.8,The natural beauty here is unparalleled.,9,2022,120,Family
+949,120,99,4.3,"Amazing wildlife experience, saw tigers up close!",8,2023,10,Couple
+950,158,41,4.9,Beautiful architecture and peaceful atmosphere.,11,2022,71,Solo
+951,68,6,2.6,The natural beauty here is unparalleled.,2,2024,105,Solo
+952,146,25,4.2,A bit expensive but totally worth it.,12,2022,124,Family
+953,190,13,3.7,Best place for adventure seekers!,10,2023,34,Family
+954,37,98,3.9,Historical significance makes this a very meaningful visit.,12,2023,118,Solo
+955,153,8,2.7,Best place for adventure seekers!,11,2023,13,Couple
+956,176,21,2.6,Best place for adventure seekers!,1,2024,13,Solo
+957,193,98,4.2,One of the best places I've ever visited.,10,2023,9,Couple
+958,181,68,4.6,The sunset view here is absolutely magical.,2,2020,139,Group
+959,73,25,4.5,Beautiful architecture and peaceful atmosphere.,2,2023,37,Solo
+960,143,79,3.9,A bit expensive but totally worth it.,12,2022,107,Couple
+961,49,68,2.7,Great place but can get very crowded during peak season.,3,2022,118,Couple
+962,121,45,4.2,"Amazing wildlife experience, saw tigers up close!",10,2022,33,Couple
+963,88,60,3.1,The sunset view here is absolutely magical.,7,2024,9,Family
+964,196,12,4.8,Best place for adventure seekers!,2,2022,121,Family
+965,140,32,4.6,A hidden gem that not many people know about.,1,2024,144,Group
+966,187,96,4.3,Beautiful architecture and peaceful atmosphere.,6,2024,144,Group
+967,37,92,4.9,A spiritual experience like no other.,9,2023,114,Couple
+968,61,13,2.6,Absolutely stunning! A must-visit for everyone.,3,2020,0,Family
+969,171,31,4.3,Absolutely stunning! A must-visit for everyone.,6,2023,11,Couple
+970,124,78,3.3,Overrated but still worth a visit.,3,2023,102,Family
+971,198,20,4.8,Historical significance makes this a very meaningful visit.,1,2024,3,Family
+972,39,18,3.2,The sunset view here is absolutely magical.,12,2024,140,Group
+973,184,93,4.3,The natural beauty here is unparalleled.,5,2022,97,Couple
+974,63,60,4.7,The sunset view here is absolutely magical.,10,2022,105,Couple
+975,46,63,2.6,Best place for adventure seekers!,11,2023,84,Family
+976,88,6,3.5,A spiritual experience like no other.,4,2021,120,Family
+977,11,32,4.4,A spiritual experience like no other.,7,2021,131,Solo
+978,62,93,3.6,Historical significance makes this a very meaningful visit.,6,2022,81,Group
+979,77,43,3.2,A bit expensive but totally worth it.,10,2021,18,Solo
+980,153,2,3.0,Beautiful architecture and peaceful atmosphere.,7,2022,129,Family
+981,199,60,2.8,The food and culture here are amazing.,5,2024,11,Couple
+982,52,23,4.6,"Perfect beach destination, crystal clear waters.",4,2023,80,Family
+983,4,83,3.9,Great place but can get very crowded during peak season.,7,2020,73,Solo
+984,59,31,2.7,Breathtaking views and wonderful experience.,7,2023,97,Group
+985,72,5,3.5,The natural beauty here is unparalleled.,6,2022,5,Family
+986,148,83,3.4,Plan at least 2-3 days to fully explore this place.,8,2022,135,Couple
+987,93,34,3.0,Absolutely stunning! A must-visit for everyone.,4,2023,124,Solo
+988,63,10,3.6,A spiritual experience like no other.,10,2022,50,Family
+989,54,89,3.3,"Perfect beach destination, crystal clear waters.",5,2021,10,Couple
+990,117,2,3.4,One of the best places I've ever visited.,4,2021,126,Couple
+991,110,11,4.3,Great place but can get very crowded during peak season.,12,2022,139,Family
+992,74,50,3.1,Plan at least 2-3 days to fully explore this place.,1,2022,72,Solo
+993,107,31,4.1,Breathtaking views and wonderful experience.,12,2021,1,Couple
+994,57,56,3.9,Historical significance makes this a very meaningful visit.,8,2022,7,Group
+995,169,79,3.9,Plan at least 2-3 days to fully explore this place.,1,2022,138,Solo
+996,3,73,4.2,Breathtaking views and wonderful experience.,5,2023,123,Couple
+997,120,87,3.9,A spiritual experience like no other.,6,2020,52,Family
+998,6,83,4.7,Breathtaking views and wonderful experience.,6,2021,9,Family
+999,5,9,4.2,Best place for adventure seekers!,5,2023,111,Solo
+1000,5,99,3.9,Historical significance makes this a very meaningful visit.,3,2020,7,Couple

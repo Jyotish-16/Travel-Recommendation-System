@@ -1,0 +1,11 @@
+[theme]
+# ============================================================
+# Streamlit Theme Configuration
+# This gives our app a premium dark look with Indian tourism colors
+# ============================================================
+
+primaryColor = "#FF6B35"          # Warm orange - evokes Indian sunsets & culture
+backgroundColor = "#0F1117"       # Deep dark background
+secondaryBackgroundColor = "#1A1D2E"  # Slightly lighter dark for cards/sidebar
+textColor = "#FAFAFA"             # Clean white text
+font = "sans serif"

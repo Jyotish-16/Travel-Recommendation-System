@@ -1,0 +1,30 @@
+# ============================================================
+# Intelligent Travel Recommendation System
+# Requirements File
+# ============================================================
+# HOW TO INSTALL:
+#   pip install -r requirements.txt
+# ============================================================
+
+# Core data manipulation libraries
+pandas>=2.0.0          # For loading, cleaning, and analyzing CSV data
+numpy>=1.24.0          # For numerical computations and matrix operations
+
+# Machine Learning library - THE HEART of our recommendation engine
+scikit-learn>=1.3.0    # For TF-IDF, cosine similarity, SVD, and preprocessing
+
+# Web app framework - turns Python scripts into beautiful web apps
+streamlit>=1.32.0      # For building our interactive travel recommendation UI
+
+# Data visualization libraries
+matplotlib>=3.7.0      # For creating charts and plots
+seaborn>=0.12.0        # For beautiful statistical visualizations (built on matplotlib)
+
+# Scientific computing (used for sparse matrix operations in collaborative filtering)
+scipy>=1.11.0          # Sparse matrices for efficient collaborative filtering
+
+# Image handling (for displaying destination images in the UI)
+Pillow>=10.0.0         # PIL - Python Imaging Library
+
+# For downloading dataset from Kaggle (optional - only needed if you have Kaggle API key)
+# kaggle>=1.5.16       # Uncomment this if you have a Kaggle account
