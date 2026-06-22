@@ -62,7 +62,7 @@ html, body, [class*="css"] {
 /* Hero gradient title */
 .hero-title {
     font-family: 'Inter',sans-serif;
-    font-size: 2.8rem;
+    font-size: 2.4rem;
     font-weight: 800;
     color: #2563EB;
     text-align: center;
@@ -86,6 +86,7 @@ html, body, [class*="css"] {
     border-radius: 12px;
     padding: 1.4rem;
     margin-bottom: 1rem;
+    min-height: 260px;
 }
 
 .dest-card:hover {
@@ -516,8 +517,8 @@ def render_recommendations_tab(recommender, df, preferred_type, preferred_state,
 
     # ── Hero Section ────────────────────────────────────────────────
     st.markdown("""
-    <div class="hero-title">Discover Incredible India 🇮🇳</div>
-    <div class="hero-subtitle">AI-powered travel recommendations tailored just for you</div>
+    <div class="hero-title">Yatra AI</div>
+    <div class="hero-subtitle">Personalized Travel Recommendations Across India</div>
     """, unsafe_allow_html=True)
 
     st.markdown('<hr class="fancy-divider">', unsafe_allow_html=True)
