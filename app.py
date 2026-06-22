@@ -61,56 +61,37 @@ html, body, [class*="css"] {
 
 /* Hero gradient title */
 .hero-title {
-    font-family: 'Playfair Display', serif;
-    font-size: 3.2rem;
-    font-weight: 700;
-    background: linear-gradient(135deg, #FF6B35 0%, #FFB347 40%, #FF6B35 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    font-family: 'Inter',sans-serif;
+    font-size: 2.8rem;
+    font-weight: 800;
+    color: #2563EB;
     text-align: center;
     line-height: 1.2;
-    margin-bottom: 0.3rem;
-    animation: shimmer 3s ease-in-out infinite;
-    background-size: 200% auto;
-}
-@keyframes shimmer {
-    0%   { background-position: 0% center; }
-    50%  { background-position: 100% center; }
-    100% { background-position: 0% center; }
+    margin-bottom: 0.5rem;
+    letter-spacing: -1px;
 }
 
 .hero-subtitle {
     text-align: center;
-    color: #9CA3AF;
-    font-size: 1.1rem;
+    color: #6B7280;
+    font-size: 1rem;
     font-weight: 400;
     margin-bottom: 1rem;
-    letter-spacing: 0.05em;
 }
 
 /* Destination cards */
 .dest-card {
-    background: linear-gradient(145deg, #1A1D2E, #232641);
-    border: 1px solid rgba(255, 107, 53, 0.25);
-    border-radius: 16px;
+    background: #1F2937;
+    border: 1px solid #374151;
+    border-radius: 12px;
     padding: 1.4rem;
     margin-bottom: 1rem;
-    transition: all 0.3s ease;
-    position: relative;
-    overflow: hidden;
 }
-.dest-card::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 3px;
-    background: linear-gradient(90deg, #FF6B35, #FFB347, #FF6B35);
-}
+
 .dest-card:hover {
-    border-color: rgba(255, 107, 53, 0.6);
+    border-color: #2563EB;
     transform: translateY(-2px);
-    box-shadow: 0 8px 32px rgba(255, 107, 53, 0.2);
+    transition: all 0.2s ease;
 }
 
 .card-title {
@@ -136,18 +117,33 @@ html, body, [class*="css"] {
 /* Badges */
 .badge {
     display: inline-block;
-    padding: 3px 10px;
-    border-radius: 20px;
+    padding: 4px 10px;
+    border-radius: 8px;
     font-size: 0.72rem;
     font-weight: 600;
     margin-right: 5px;
     margin-bottom: 4px;
-    letter-spacing: 0.03em;
 }
-.badge-type    { background: rgba(255,107,53,0.2);  color: #FF8C5A; border: 1px solid rgba(255,107,53,0.4); }
-.badge-budget  { background: rgba(52,211,153,0.15); color: #34D399; border: 1px solid rgba(52,211,153,0.35); }
-.badge-time    { background: rgba(99,102,241,0.15); color: #818CF8; border: 1px solid rgba(99,102,241,0.35); }
-.badge-free    { background: rgba(52,211,153,0.25); color: #10B981; border: 1px solid rgba(52,211,153,0.5); }
+.badge-type{
+background: #DBEAFE;
+color: #1D4ED8;
+border: 1px solid #93C5FD;
+}   
+.badge-budget{
+background: #DCFCE7;
+color: #15803D;
+border: 1px solid #86EFAC;
+}
+.badge-time{
+background : #F3F4F6;
+color: #4B5563;
+border: 1px solid #D1D5DB;
+}
+.badge-free{
+  background: #DCFCE7;
+  color: #15803D;
+  border: 1px solid #86EFAC;
+}
 
 /* Rating stars */
 .rating-row {
@@ -159,7 +155,7 @@ html, body, [class*="css"] {
 .rating-num {
     font-size: 1rem;
     font-weight: 700;
-    color: #FFB347;
+    color: #FBBF24;
 }
 .rating-bar-bg {
     flex: 1;
@@ -171,24 +167,23 @@ html, body, [class*="css"] {
 .rating-bar-fill {
     height: 100%;
     border-radius: 3px;
-    background: linear-gradient(90deg, #FF6B35, #FFB347);
+    background: #FBBF24;
 }
 
 /* Section headers */
 .section-header {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     font-weight: 700;
-    color: #FAFAFA;
+    color: #E5E7EB;
     margin: 1.5rem 0 1rem 0;
-    display: flex;
-    align-items: center;
-    gap: 10px;
+    padding-bottom: 0.4rem
+    border-bottom: 1px solid #374151;
 }
 
 /* Stats row */
 .stat-box {
-    background: linear-gradient(145deg, #1A1D2E, #1E2235);
-    border: 1px solid rgba(255,107,53,0.2);
+    background: #1F2937;
+    border: 1px solid #374151;
     border-radius: 12px;
     padding: 1rem;
     text-align: center;
@@ -196,7 +191,7 @@ html, body, [class*="css"] {
 .stat-num {
     font-size: 2rem;
     font-weight: 800;
-    color: #FF6B35;
+    color: #2563EB;
 }
 .stat-label {
     font-size: 0.8rem;
@@ -207,9 +202,10 @@ html, body, [class*="css"] {
 
 /* Info box */
 .info-box {
-    background: linear-gradient(145deg, #1A1D2E, #1E2235);
-    border-left: 4px solid #FF6B35;
-    border-radius: 0 12px 12px 0;
+    background: #1F2937;
+    border: 1px solid #374151;
+    border-left: 4px solid #2563EB;
+    border-radius: 10px;
     padding: 1rem 1.2rem;
     margin: 0.8rem 0;
     color: #D1D5DB;
@@ -217,22 +213,16 @@ html, body, [class*="css"] {
     line-height: 1.7;
 }
 
-/* Divider */
-.fancy-divider {
-    height: 2px;
-    background: linear-gradient(90deg, transparent, #FF6B35, transparent);
-    margin: 1.5rem 0;
-    border: none;
-}
+
 
 /* Sidebar styling */
 .sidebar-header {
-    font-size: 1.1rem;
-    font-weight: 700;
-    color: #FF6B35;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #E5E7EB;
     margin-bottom: 0.5rem;
     padding-bottom: 0.5rem;
-    border-bottom: 1px solid rgba(255,107,53,0.3);
+    border-bottom: 1px solid #374151;
 }
 
 /* Tab styling fix */
@@ -241,28 +231,28 @@ html, body, [class*="css"] {
     background: transparent;
 }
 .stTabs [data-baseweb="tab"] {
-    border-radius: 8px;
-    padding: 8px 20px;
-    background: rgba(255,255,255,0.05);
+    background: transparent;
+    color: #9CA3AF;
+    border-bottom: 2px solid transparent;
 }
 .stTabs [aria-selected="true"] {
-    background: rgba(255,107,53,0.25) !important;
-    color: #FF6B35 !important;
+    background: transparent !important;
+    color: #2563EB !important;
+    border-bottom: 2px solid #2563EB !important;
 }
 
 /* Button override */
 .stButton > button {
-    background: linear-gradient(135deg, #FF6B35, #FF8C5A);
+    background: #2563EB;
     color: white;
     border: none;
     border-radius: 8px;
-    padding: 0.5rem 1.5rem;
     font-weight: 600;
-    transition: all 0.2s;
 }
 .stButton > button:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 4px 15px rgba(255,107,53,0.4);
+   background: #1D4ED8
+    transform: none;
+    box-shadow: none;
 }
 
 /* Force arrow cursor on selectbox instead of text cursor */
